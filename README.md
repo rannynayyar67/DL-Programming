@@ -2,6 +2,8 @@
 
 It is based on a binary classication task of labeling cell images into the categories of Parasitized cells and Uninfected cells
 
+aaessment_report.pdf is self-completed PDF report wth all results and inferences and all relevant information to support your quantitative results and visualizations.
+
 To go through both models kindly find .ipynb file in the repository.
 Model1 and Model2 can be tested using .H5 file with saved model training checkpoints. 
 
